@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1AF0A0,25:00C9FF,55:7B2FF7,100:1AF0A0&height=200&section=header&text=Sourish%20Reddy&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=39FF14" width="100%"/>
 
 <a href="https://github.com/Insight14">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+LangGraph;Shipping+AI%2FML+products;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+with+React+Python+%2B+LangGraph;Shipping+AI%2FML+products;Always+learning+something+new" alt="Typing SVG" />
 </a>
 
 </div>
