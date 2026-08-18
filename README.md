@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Sri%20Satya%20Sourish%20Reddy&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=7aa2f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Sourish%20Reddy&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=7aa2f7" width="100%"/>
 
 <a href="https://github.com/Insight14">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+LangGraph;Shipping+AI%2FML+products;Always+learning+something+new" alt="Typing SVG" />
@@ -104,24 +104,24 @@
 <div align="center">
 
 <a href="https://github.com/Insight14/Uber-Stall-Guard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight14&repo=Uber-Stall-Guard&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Insight14&repo=Uber-Stall-Guard&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 <a href="https://github.com/Insight14/Aegis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight14&repo=Aegis&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Insight14&repo=Aegis&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 
 <a href="https://github.com/sainikhil1611/MedVisit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sainikhil1611&repo=MedVisit&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=sainikhil1611&repo=MedVisit&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 <a href="https://github.com/Insight14/Vigorithm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight14&repo=Vigorithm&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Insight14&repo=Vigorithm&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 
 <a href="https://github.com/acm-projects/CoDriver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acm-projects&repo=CoDriver&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=acm-projects&repo=CoDriver&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 <a href="https://github.com/Insight14/PokeBAIse">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight14&repo=PokeBAIse&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Insight14&repo=PokeBAIse&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
 </a>
 
 </div>
@@ -132,10 +132,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Insight14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Insight14&theme=tokyonight&hide_border=true&background=1a1b27" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Insight14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Insight14&theme=tokyonight&hide_border=true&background=1a1b27" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insight14&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Insight14&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" width="49%"/>
 
 </div>
 
