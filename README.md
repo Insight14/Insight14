@@ -23,10 +23,9 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building AI-driven and full-stack projects
-- 🌱 Deep in agentic AI — **LangChain / LangGraph / RAG pipelines**
+- 🌱 Deep in agentic AI — **LangChain / AWS / RAG pipelines**
 - 🎓 Based in Plano, TX
-- ⚡ Fun fact: I've taught, interned, and shipped — all at once
-
+- ⚡ Fun fact: I love football⚽ and track🏃‍♂️
 <br/>
 
 ## 🎓 Education
