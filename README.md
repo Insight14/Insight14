@@ -2,42 +2,44 @@
 
 ### ⚡ Quick About Me
 - 🎓 CS Student / Developer based in Plano, TX
-- 🌐 Portfolio: [sourishreddy.vercel.app](https://sourishreddy.vercel.app)
+- 🌐 Portfolio: [sourishreddy.vercel.app](https://vercel.app)
 - 🚀 Interested in AI/ML, Full-Stack Development, and Robotics
 
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sri-satya-sourish-reddy/)
-[![Website](https://shields.io)](https://sourishreddy.vercel.vercel.app)
-[![Instagram](https://shields.io)](https://www.instagram.com/sourish._.ssr/)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="https://vercel.app" target="_blank">
+    <img src="https://shields.io" alt="Website">
+  </a>
+  <a href="https://instagram.com" target="_blank">
+    <img src="https://shields.io" alt="Instagram">
+  </a>
+</p>
 
 ---
 
 ### 💼 Experience
 <table>
   <tr>
-    <td align="center" width="70px">
-      <img src="https://clearbit.com" width="40px" alt="IBM"/>
-    </td>
+    <td align="center" width="60px">🤖</td>
     <td>
       <strong>IBM</strong><br>
       <em>Software Developer Intern</em>
     </td>
   </tr>
   <tr>
-    <td align="center" width="70px">
-      <img src="https://clearbit.com" width="40px" alt="Handshake"/>
-    </td>
+    <td align="center" width="60px">🤝</td>
     <td>
       <strong>Handshake</strong><br>
       <em>AI/ML Intern</em>
     </td>
   </tr>
   <tr>
-    <td align="center" width="70px">
-      <img src="https://clearbit.com" width="40px" alt="iCode"/>
-    </td>
+    <td align="center" width="60px">💻</td>
     <td>
       <strong>iCode</strong><br>
       <em>Programming Instructor</em>
@@ -78,39 +80,49 @@
 ---
 
 ### 💻 Languages
-![Python](https://shields.io)
-![Java](https://shields.io)
-![C++](https://shields.io)
-![JavaScript](https://shields.io)
-![R](https://shields.io)
-![HTML5](https://shields.io)
-![Swift](https://shields.io)
-![MySQL](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="Java">
+  <img src="https://shields.io" alt="C++">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="R">
+  <img src="https://shields.io" alt="HTML5">
+  <img src="https://shields.io" alt="Swift">
+  <img src="https://shields.io" alt="MySQL">
+</p>
 
 ### 🛠️ Frameworks & Libraries
-![React](https://shields.io)
-![Node.js](https://shields.io)
-![Flask](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="React">
+  <img src="https://shields.io" alt="Node.js">
+  <img src="https://shields.io" alt="Flask">
+</p>
 
 ### 🧠 AI, Machine Learning & Data Science
-![PyTorch](https://shields.io)
-![TensorFlow](https://shields.io)
-![scikit-learn](https://shields.io)
-![LangChain](https://shields.io)
-![LangGraph](https://shields.io)
-![WatsonX](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="PyTorch">
+  <img src="https://shields.io" alt="TensorFlow">
+  <img src="https://shields.io" alt="scikit-learn">
+  <img src="https://shields.io" alt="LangChain">
+  <img src="https://shields.io" alt="LangGraph">
+  <img src="https://shields.io" alt="WatsonX">
+</p>
 
 ### 💾 Databases & Backend Infrastructure
-![MongoDB](https://shields.io)
-![Supabase](https://shields.io)
-![AWS](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="MongoDB">
+  <img src="https://shields.io" alt="Supabase">
+  <img src="https://shields.io" alt="AWS">
+</p>
 
 ### 🧰 Developer Tools & DevOps
-![Docker](https://shields.io)
-![Postman](https://shields.io)
-![Wireshark](https://shields.io)
-![Figma](https://shields.io)
-![Arduino](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Docker">
+  <img src="https://shields.io" alt="Postman">
+  <img src="https://shields.io" alt="Wireshark">
+  <img src="https://shields.io" alt="Figma">
+  <img src="https://shields.io" alt="Arduino">
+</p>
 
 ---
 
