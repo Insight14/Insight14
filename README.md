@@ -147,7 +147,5 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1AF0A0,25:00C9FF,55:7B2FF7,100:1AF0A0&height=120&section=footer" width="100%"/>![HTML5](https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=f7768e)
-![Swift](https://img.shields.io/badge/Swift-1a1b27?style=for-the-badge&logo=swift&logoColor=e0af68)
-![MySQL](https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=7aa2f7)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1AF0A0,25:00C9FF,55:7B2FF7,100:1AF0A0&height=120&section=footer" width="100%"/>
 
