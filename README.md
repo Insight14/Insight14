@@ -1,4 +1,4 @@
-# Hi, I'm Sri Satya Sourish Reddy 👋
+# Hi, I'm Sourish Reddy 👋
 
 ### ⚡ Quick About Me
 - 🎓 CS Student / Developer based in Plano, TX
@@ -9,14 +9,19 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
+  <a href="https://linkedin.com" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" alt="LinkedIn" onerror="this.style.display='none';this.nextElementSibling.style.display='inline';" />
+    <span style="background:#7aa2f7;color:#1a1b26;padding:5px 10px;border-radius:3px;font-weight:bold;display:none;">LinkedIn 🔗</span>
   </a>
-  <a href="https://vercel.app" target="_blank">
-    <img src="https://shields.io" alt="Website">
+  &nbsp;
+  <a href="https://vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" alt="Website" onerror="this.style.display='none';this.nextElementSibling.style.display='inline';" />
+    <span style="background:#7dcfff;color:#1a1b26;padding:5px 10px;border-radius:3px;font-weight:bold;display:none;">Website 🌐</span>
   </a>
-  <a href="https://instagram.com" target="_blank">
-    <img src="https://shields.io" alt="Instagram">
+  &nbsp;
+  <a href="https://instagram.com" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" alt="Instagram" onerror="this.style.display='none';this.nextElementSibling.style.display='inline';" />
+    <span style="background:#bb9af7;color:#1a1b26;padding:5px 10px;border-radius:3px;font-weight:bold;display:none;">Instagram 📸</span>
   </a>
 </p>
 
@@ -53,24 +58,24 @@
 <table>
   <tr>
     <td>
-      <strong>🛸 <a href="https://github.com" style="color: #7ee787;">Uber-Stall-Guard</a></strong><br>
+      <strong>🛸 <a href="https://github.com" style="color: #7ee787; text-decoration: none;">Uber-Stall-Guard</a></strong><br>
       AI prototype detecting driver-stalling behavior on rideshare trips.<br>
       <sub>JS • Prototype</sub>
     </td>
     <td>
-      <strong>🛡️ <a href="https://github.com" style="color: #7ee787;">Aegis</a></strong><br>
+      <strong>🛡️ <a href="https://github.com" style="color: #7ee787; text-decoration: none;">Aegis</a></strong><br>
       Advanced security and monitoring framework.<br>
       <sub>Python • Tooling</sub>
     </td>
   </tr>
   <tr>
     <td>
-      <strong>🏥 <a href="https://github.com" style="color: #7ee787;">MedVisit</a></strong><br>
+      <strong>🏥 <a href="https://github.com" style="color: #7ee787; text-decoration: none;">MedVisit</a></strong><br>
       Healthcare logistics platform facilitating appointment routing.<br>
       <sub>TypeScript • Full-Stack</sub>
     </td>
     <td>
-      <strong>🏎️ <a href="https://github.com" style="color: #7ee787;">CoDriver</a></strong><br>
+      <strong>🏎️ <a href="https://github.com" style="color: #7ee787; text-decoration: none;">CoDriver</a></strong><br>
       Collaborative intelligent driving utility platform.<br>
       <sub>TypeScript • Automation</sub>
     </td>
@@ -80,54 +85,29 @@
 ---
 
 ### 💻 Languages
-<p align="left">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="Java">
-  <img src="https://shields.io" alt="C++">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="R">
-  <img src="https://shields.io" alt="HTML5">
-  <img src="https://shields.io" alt="Swift">
-  <img src="https://shields.io" alt="MySQL">
-</p>
+`Python` &nbsp; `Java` &nbsp; `C++` &nbsp; `JavaScript` &nbsp; `R` &nbsp; `HTML5` &nbsp; `Swift` &nbsp; `MySQL`
 
 ### 🛠️ Frameworks & Libraries
-<p align="left">
-  <img src="https://shields.io" alt="React">
-  <img src="https://shields.io" alt="Node.js">
-  <img src="https://shields.io" alt="Flask">
-</p>
+`React` &nbsp; `Node.js` &nbsp; `Flask`
 
 ### 🧠 AI, Machine Learning & Data Science
-<p align="left">
-  <img src="https://shields.io" alt="PyTorch">
-  <img src="https://shields.io" alt="TensorFlow">
-  <img src="https://shields.io" alt="scikit-learn">
-  <img src="https://shields.io" alt="LangChain">
-  <img src="https://shields.io" alt="LangGraph">
-  <img src="https://shields.io" alt="WatsonX">
-</p>
+`PyTorch` &nbsp; `TensorFlow` &nbsp; `scikit-learn` &nbsp; `LangChain` &nbsp; `LangGraph` &nbsp; `WatsonX`
 
 ### 💾 Databases & Backend Infrastructure
-<p align="left">
-  <img src="https://shields.io" alt="MongoDB">
-  <img src="https://shields.io" alt="Supabase">
-  <img src="https://shields.io" alt="AWS">
-</p>
+`MongoDB` &nbsp; `Supabase` &nbsp; `AWS`
 
 ### 🧰 Developer Tools & DevOps
-<p align="left">
-  <img src="https://shields.io" alt="Docker">
-  <img src="https://shields.io" alt="Postman">
-  <img src="https://shields.io" alt="Wireshark">
-  <img src="https://shields.io" alt="Figma">
-  <img src="https://shields.io" alt="Arduino">
-</p>
+`Docker` &nbsp; `Postman` &nbsp; `Wireshark` &nbsp; `Figma` &nbsp; `Arduino`
 
 ---
 
 ### 📊 My Live GitHub Metrics
 <p align="left">
-  <img src="https://vercel.app" alt="Sourish's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Sourish's GitHub Stats" height="180px" />
+  </a>
+  &nbsp;
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Top Languages" height="180px" />
+  </a>
 </p>
