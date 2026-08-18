@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=200&section=header&text=Sourish%20Reddy&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=7aa2f7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1AF0A0,25:00C9FF,55:7B2FF7,100:1AF0A0&height=200&section=header&text=Sourish%20Reddy&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%C2%B7%20Full-Stack%20Engineer&descAlignY=55&descSize=18&descColor=39FF14" width="100%"/>
 
 <a href="https://github.com/Insight14">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+LangGraph;Shipping+AI%2FML+products;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+with+Python+%2B+LangGraph;Shipping+AI%2FML+products;Always+learning+something+new" alt="Typing SVG" />
 </a>
 
 </div>
@@ -39,12 +39,12 @@
 <sub>Built and deployed enterprise features across the product stack</sub>
 </td>
 <td align="center" width="260">
-<img src="https://img.shields.io/badge/Handshake-FF6584?style=for-the-badge&logo=handshake&logoColor=white" /><br/><br/>
+<img src="https://img.shields.io/badge/Handshake-D7FF4F?style=for-the-badge&logo=handshake&logoColor=0E1A22" /><br/><br/>
 <b>AI / ML Intern</b><br/>
 <sub>Fine-tuned models and built predictive ML pipelines</sub>
 </td>
 <td align="center" width="260">
-<img src="https://img.shields.io/badge/iCode-1a1b27?style=for-the-badge&logo=codementor&logoColor=7aa2f7" /><br/><br/>
+<img src="https://img.shields.io/badge/iCode-7B2FF7?style=for-the-badge&logo=codementor&logoColor=white" /><br/><br/>
 <b>Programming Instructor</b><br/>
 <sub>Taught programming fundamentals and logic to students</sub>
 </td>
@@ -141,4 +141,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1AF0A0,25:00C9FF,55:7B2FF7,100:1AF0A0&height=120&section=footer" width="100%"/>
