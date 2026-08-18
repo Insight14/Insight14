@@ -23,7 +23,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently building AI-driven and full-stack projects
-- 🌱 Deep in agentic AI — **LangChain / LangGraph / RAG pipelines**
+- 🌱 Deep in agentic AI — **LangChain /  / RAG pipelines**
 - 🎓 Based in Plano, TX
 - ⚡ Fun fact: I've taught, interned, and shipped — all at once
 
@@ -36,22 +36,18 @@
 <td align="center" width="260">
 <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /><br/><br/>
 <b>Software Developer Intern</b><br/>
-<sub>Built and deployed enterprise features across the product stack</sub>
 </td>
 <td align="center" width="260">
 <img src="https://img.shields.io/badge/Handshake-D7FF4F?style=for-the-badge&logo=handshake&logoColor=0E1A22" /><br/><br/>
 <b>AI / ML Intern</b><br/>
-<sub>Fine-tuned models and built predictive ML pipelines</sub>
 </td>
 <td align="center" width="260">
 <img src="https://img.shields.io/badge/iCode-7B2FF7?style=for-the-badge&logo=codementor&logoColor=white" /><br/><br/>
 <b>Programming Instructor</b><br/>
-<sub>Taught programming fundamentals and logic to students</sub>
 </td>
 </tr>
 </table>
 
-<sub>💡 Add exact dates (e.g. "Jun 2025 – Aug 2025") under each role once you have the file — see the note at the end of this reply.</sub>
 
 <br/>
 
